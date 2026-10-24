@@ -1,0 +1,22 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-family:fantasy;
+    font-size: 10em;
+    font-weight: bold;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button{
+    color: white;
+    font-family:'Tahoma';
+    font-weight: 500;
+    background-color: rgb(114, 79, 145);
+    border-radius: 20px;
+    padding: 10px 20px;
+}
